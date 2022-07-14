@@ -9,6 +9,8 @@ An undergraduate getting into web2 and web3; learning SmartContract development 
 
 Hope the code in my repository can be of some help to all the learners! :)
 
+Github stats:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alliums-p)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
