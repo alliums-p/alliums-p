@@ -1,7 +1,13 @@
 ### Hi there 👋 I'm Alliums!
 
+Connect with me:
+
+[![Sherpa Alliums Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alliums42)
+[![Sherpa Alliums Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/alliums#4976)
+
 An undergraduate getting into web2 and web3; learning SmartContract development along with loads of other cool stuff.
-Hope the code provided in my repository can be of some help to all the learners! :)
+
+Hope the code in my repository can be of some help to all the learners! :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alliums-p)](https://github.com/anuraghazra/github-readme-stats)
 
