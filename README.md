@@ -2,6 +2,8 @@
 
 Tech & Travel | Fullstack Web3 Dev | Transitioning to Web3
 
+---
+
 Connect with me:
 
 [![Sherpa Alliums Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alliums42)
